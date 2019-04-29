@@ -1,6 +1,7 @@
 # Datascience_Cheatsheets
 Artificial Intelligence
-BIg Data
+
+Big Data
 Data Engineering
 Data Mining
 DataScience
