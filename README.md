@@ -1,5 +1,4 @@
 # Datascience_Cheatsheets
-This repo contains Theory and Code for Datascience 
 Artificial Intelligence
 BIg Data
 Data Engineering
